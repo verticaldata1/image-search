@@ -1,0 +1,22 @@
+.result-container {
+  height: 350px;
+  max-width: 100%;
+  margin-bottom: 80px;
+}
+.result-image{
+  max-height: 90%;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  margin: auto;
+  display: block;
+  border-color: gray;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 5%;
+}
+.link-styles{
+  color: #0080FF;
+  text-decoration: underline;
+  margin-bottom: 40px;
+}
